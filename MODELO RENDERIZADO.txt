@@ -1,0 +1,3 @@
+Se adjunta el enlace del notebook renderizado, debido a que GitHub no es capaz de procesar todo el código realizado en GoogleColab. Para ver el código en detalle, simplemente se debe copiar y pegar el enlace.
+
+https://colab.research.google.com/github/BuceandoConDatos/Modelo-NLP/blob/main/Modelo_NLP.ipynb
